@@ -5,9 +5,6 @@
 - 🌱 I’m currently learning python,c++
 - 📫 How to reach me 
 - Linkden :- kaushalashutosh
-- Snapchat  :- jstashu
-- instagram :- jsttashu
-- telegram :- @deadwickyt
 
 <!---
 Not there yet but closer than yesterday
